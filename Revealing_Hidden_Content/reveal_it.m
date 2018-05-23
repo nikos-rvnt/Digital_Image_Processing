@@ -1,8 +1,3 @@
-% -------------------------------------------------------------------------
-%                            DPMS - SESE
-%                Psifiakh Epeksergasia & Analysh Eikonas
-%                 Ergasthriakh Askhsh 2016-17 - Meros A
-% -------------------------------------------------------------------------
 
 % fortwnw thn eikona 
 [ circle ] = load('images/circle.mat') ;
