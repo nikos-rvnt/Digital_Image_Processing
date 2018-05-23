@@ -1,3 +1,2 @@
-# Digital_Image_Processing-Revealing_Hidden_Content
+# Digital_Image_Processing
 
-revealing the hidden content of an image using histogram techniques
